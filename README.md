@@ -30,7 +30,7 @@ It allows scanning a single host for open, closed, or timeout TCP ports within a
 
 # Installation
 ```
-git clone https://github.com/yourusername/Syntecxhub_Project_TCP_Port_Scanner.git
+git clone https://github.com/Christerlin/Syntecxhub_Project_TCP_Port_Scanner.git
 cd Syntecxhub_Project_TCP_Port_Scanner
 
 python3 scanner.py --host 127.0.0.1 --ports 1-100
@@ -46,4 +46,5 @@ Author
 
 Christerlin Joseph
 Syntecxhub Internship Program
+
 
